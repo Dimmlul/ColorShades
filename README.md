@@ -10,7 +10,7 @@
 
 Check out the live demo of ColorShades here:
 
-https://colorshades.dimmm.my.id
+**https://colorshades.dimmm.my.id**
 
 ---
 
@@ -23,7 +23,7 @@ https://colorshades.dimmm.my.id
 | **Color List Display**      | Displays the generated shades with corresponding hex background colors |
 | **Hex & Weight Display**    | Each color shows its hex value and weight (percentage) in the generated shade |
 | **Copy to Clipboard**      | Users can click on a color to copy its hex value to the clipboard |
-| **React-Toastify Notifications** | Displays success or error messages when copying colors to the clipboard |
+| **SweetAlert Notifications** | Displays success or error messages when copying colors to the clipboard using SweetAlert2 |
 
 ---
 
@@ -59,6 +59,6 @@ Open in your browser: **[http://localhost:5173](http://localhost:5173)**
 | **Color Input Form**          | Input color with validation to ensure a valid hex format   |
 | **Generated Color List**      | Shows the list of colors based on user input               |
 | **Color Copy**                | Copy color to clipboard when clicked                       |
-| **Toast Notifications**       | Shows toast messages for success or failure of color copy  |
+| **SweetAlert Notifications**       | Shows SweetAlert popups for success or failure of color copy  |
 
 ---

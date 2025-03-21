@@ -1,5 +1,6 @@
 import SingleColor from './SingleColor';
 import { nanoid } from 'nanoid';
+
 const ColorsList = ({ colors }) => {
   return (
     <section className='colors'>
@@ -9,4 +10,5 @@ const ColorsList = ({ colors }) => {
     </section>
   );
 };
+
 export default ColorsList;
