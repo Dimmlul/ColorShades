@@ -34,7 +34,7 @@ Check out the live demo of ColorShades here:
 ### **1️⃣ Clone Repository**
 
 ```sh
-git clone https://github.com/username/ColorShades.git
+git clone https://github.com/Dimmlul/ColorShades.git
 cd ColorShades
 ```
 
