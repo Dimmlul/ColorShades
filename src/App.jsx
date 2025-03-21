@@ -5,7 +5,7 @@ import Form from './Form';
 import ColorList from './ColorList';
 
 function App() {
-  const [colors, setColors] = useState(new Values('#f15025').all(10));
+  const [colors, setColors] = useState(new Values('#AF29CAFF').all(10));
   const addColor = (color) => {
     try {
       let newColors = new Values(color).all(10);
