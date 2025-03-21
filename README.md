@@ -2,6 +2,8 @@
 
 **ColorShades** is a web-based application that allows users to input a hex color code and generate various shades of that color. Users can view the generated colors, see their hex values, and copy them to the clipboard.
 
+---
+
 ![alt text](src/assets/ColorShades.png)
 
 ---
